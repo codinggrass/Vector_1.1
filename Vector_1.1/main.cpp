@@ -19,7 +19,7 @@ int main()
 	cout << v1.size() << endl;
 
 	cout << v1[0] << ' ' << v1[1] << ' ';
-
+	cout << *v1.begin() << endl;
 
 	while (getchar() != 'q');
 
