@@ -32,6 +32,7 @@ int main()
 	while (getchar() != 'q');
 
 
+
 	return 0;
 }
 
